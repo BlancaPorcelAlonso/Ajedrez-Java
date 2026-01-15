@@ -15,7 +15,8 @@ public class Ajedrez {
 
     private static final Scanner sc = new Scanner(System.in);
 
-    // Inicializamos el tablero 
+    // Inicializamos el tablero  
+    
     public static void boardInitialization(String[][] board) {
 
         board[0][0] = "[T]";
