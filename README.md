@@ -1,7 +1,4 @@
 
-
----
-
 # ♟️ Juego de Ajedrez en Java
 
 Aplicación de escritorio desarrollada en Java utilizando Swing.
@@ -12,7 +9,7 @@ Implementa diseño orientado a objetos, gestión del estado del tablero e intera
 
 Descarga el archivo ejecutable desde la sección ejecutable:
 
-     Ajedrez(Swing).jar
+Ajedrez(Swing).jar
 
 Cómo ejecutarlo:
 
@@ -26,7 +23,6 @@ Si tu sistema lo permite, también puedes ejecutarlo directamente haciendo doble
 
 * Java
 * Java Swing
-* 
 ---
 
 * Interactive chess board
