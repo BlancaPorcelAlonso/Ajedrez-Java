@@ -1,5 +1,5 @@
 
-# ♟️ Juego de Ajedrez en Java
+#  Juego de Ajedrez en Java
 
 Aplicación de escritorio desarrollada en Java utilizando Swing.
 Implementa diseño orientado a objetos, gestión del estado del tablero e interacción basada en eventos.
